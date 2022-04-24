@@ -1,0 +1,11 @@
+https://www.kaggle.com/robikscube/zillow-home-value-index
+https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
+This data set features a lot of data about the prices of home around the US and grouped by states. I find this data set interesting it can help show where 
+the most expensive and cheapest houses are in the US and I think this data can be correlated with other data such as cost of living, or minimum wages.
+These are important data sets that can or will impact all of us in someway or another and of course there is a lot of rhetoric that higher minimum wages cases inflation
+and housing prices are usually directly affected by inflation. 
+
+this website has a table i can try and scrap
+https://www.thehomesdirect.com/blog/average-cost-of-a-manufactured-home
+
+https://www.ncsl.org/research/labor-and-employment/national-employment-monthly-update.aspx#:~:text=The%20national%20unemployment%20rate%20decreased,rates%20can%20be%20found%20here.
